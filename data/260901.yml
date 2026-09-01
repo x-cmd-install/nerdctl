@@ -1,0 +1,60 @@
+about:
+  description: contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+  license: Apache-2.0
+  homepage: 
+  head: d8b7474
+  archived: false
+  latestVersion: v2.4.0-beta.0
+  collectedAt: 2026-09-01T05:36:34Z
+timeline:
+  created: 2020-12-04
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-24
+popularity:
+  star: 10349
+  watcher: 46
+  fork: 819
+  release: 96
+  contributor: 267
+  pullRequest: 551
+  issue: 1443
+language:
+  Go: 3984201
+  Shell: 95148
+  Dockerfile: 19240
+  Makefile: 18436
+  PowerShell: 1464
+totalLine: 4118489
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 30
+    openPR: 10
+    closedIssue: 1
+    openIssue: 4
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 5
+    mergedPR: 157
+    openPR: 14
+    closedIssue: 24
+    openIssue: 10
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 9
+    mergedPR: 275
+    openPR: 21
+    closedIssue: 39
+    openIssue: 16
+    commit: 0
+  last360d:
+    since: 2025-09-06
+    release: 15
+    mergedPR: 457
+    openPR: 29
+    closedIssue: 75
+    openIssue: 29
+    commit: 0
