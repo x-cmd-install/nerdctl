@@ -7,7 +7,7 @@ about:
   head: 1f54250
   archived: false
   latestVersion: v2.4.0-beta.0
-  collectedAt: 2026-09-04T19:55:59Z
+  collectedAt: 2026-09-04T20:44:29Z
 timeline:
   created: 2020-12-04
   lastCommit: 2026-09-04
@@ -84,6 +84,74 @@ total:
   openIssue: 302
   commit: 6598
 ---
+path: /home/runner/.x-repo/github.com/containerd/nerdctl
+collectedAt: 2026-09-04T20:44:30Z
+loc:
+  Go:
+    code: 93525
+    comments: 19227
+    blanks: 14087
+    files: 794
+  Sh:
+    code: 1858
+    comments: 586
+    blanks: 431
+    files: 21
+  Yaml:
+    code: 1087
+    comments: 48
+    blanks: 100
+    files: 8
+  Makefile:
+    code: 351
+    comments: 98
+    blanks: 85
+    files: 2
+  Dockerfile:
+    code: 263
+    comments: 55
+    blanks: 27
+    files: 2
+  Svg:
+    code: 50
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 44
+    comments: 4
+    blanks: 8
+    files: 4
+  PowerShell:
+    code: 31
+    comments: 1
+    blanks: 5
+    files: 1
+  Bitbake:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Php:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4721
+    blanks: 1982
+    files: 46
+  Text:
+    code: 0
+    comments: 44
+    blanks: 13
+    files: 4
+total:
+  code: 97907
+  comments: 24874
+  blanks: 16845
+  files: 886
 ---
 date: "2026-08-24"
 repo:
