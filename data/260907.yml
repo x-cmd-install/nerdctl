@@ -2,16 +2,16 @@ about:
   description: "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
   license: Apache-2.0
   homepage: 
-  head: ee93f38
+  head: 537a335
   archived: false
   latestVersion: "v2.4.0-beta.0"
-  collectedAt: 2026-09-07T05:49:27Z
+  collectedAt: 2026-09-07T18:50:47Z
 timeline:
   created: 2020-12-04
   lastCommit: 2026-09-07
   lastRelease: 2026-08-24
 popularity:
-  star: 10357
+  star: 10358
   watcher: 47
   fork: 824
   release: 96
@@ -29,61 +29,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 25
-    openPR: 15
+    mergedPR: 26
+    openPR: 13
     closedIssue: 4
     openIssue: 5
-    commit: 27
+    commit: 28
   last60d:
     since: 2026-07-09
     release: 2
-    mergedPR: 82
-    openPR: 19
+    mergedPR: 83
+    openPR: 17
     closedIssue: 11
     openIssue: 8
-    commit: 75
+    commit: 76
   last90d:
     since: 2026-06-09
     release: 5
-    mergedPR: 157
-    openPR: 20
+    mergedPR: 158
+    openPR: 18
     closedIssue: 26
     openIssue: 12
-    commit: 164
+    commit: 165
   last180d:
     since: 2026-03-11
     release: 9
-    mergedPR: 276
-    openPR: 26
+    mergedPR: 277
+    openPR: 24
     closedIssue: 41
     openIssue: 17
-    commit: 320
+    commit: 321
   last360d:
     since: 2025-09-12
     release: 15
-    mergedPR: 459
-    openPR: 35
+    mergedPR: 460
+    openPR: 33
     closedIssue: 78
     openIssue: 30
-    commit: 538
+    commit: 539
   last720d:
     since: 2024-09-17
     release: 27
-    mergedPR: 1099
-    openPR: 49
+    mergedPR: 1100
+    openPR: 47
     closedIssue: 271
     openIssue: 138
-    commit: 2478
+    commit: 2480
 total:
   release: 96
-  mergedPR: 2943
-  openPR: 64
+  mergedPR: 2944
+  openPR: 62
   closedIssue: 1146
   openIssue: 302
-  commit: 6600
+  commit: 6602
 ---
 path: /home/runner/.x-repo/github.com/containerd/nerdctl
-collectedAt: 2026-09-07T05:49:31Z
+collectedAt: 2026-09-07T18:50:50Z
 loc:
   Go:
     code: 93525
@@ -275,7 +275,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/ghcr-image-build-and-publish.yml:25'
 ---
 eget:
-  collectedAt: 2026-09-07T05:49:32+00:00
+  collectedAt: 2026-09-07T18:50:51+00:00
   platform:
     darwin/arm64:
       name:  null
