@@ -1,61 +1,61 @@
 # nerdctl
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 
-![nerdctl](https://repo.x-cmd.io/nerdctl.svg)
+![nerdctl](https://repo.x-cmd.io/nerdctl.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install nerdctl
 ```
 
-## Code insight
+## 代码规模
 
-Total: **100,138** lines of code across **844** files in the top 5 languages.
+合计: **100,138** 行代码（覆盖前 5 种语言、共 **844** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 96,420 | 19,819 | 14,508 | 811 |
 | Sh | 1,858 | 586 | 431 | 21 |
 | Yaml | 1,087 | 48 | 100 | 8 |
 | Makefile | 382 | 110 | 88 | 2 |
 | Dockerfile | 263 | 55 | 27 | 2 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **6.8 / 10**
+总评分: **6.8 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/containerd/nerdctl>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/containerd/nerdctl>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `v2.4.0-beta.0` (2026-07-20)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 14
+- **最新版本**: `v2.4.0-beta.0` (2026-07-20)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 14 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 10,371 · **Forks**: 825 · **Open issues**: 1,450 · **Contributors**: 260
+- **Star**: 10,371 · **Fork**: 825 · **开放 issue**: 1,450 · **贡献者**: 260
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 96 · **Merged PRs**: 2963 · **Open PRs**: 55 · **Closed issues**: 1153 · **Open issues**: 297 · **Commits**: 6658
+- **发布数**: 96 · **已合并 PR**: 2963 · **开放 PR**: 55 · **已关闭 issue**: 1153 · **开放 issue**: 297 · **提交数**: 6658
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 40 | 8 | 7 | 4 | 63 |
 | last60d | 2026-07-12 | 2 | 96 | 10 | 14 | 7 | 113 |
@@ -64,10 +64,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 15 | 477 | 26 | 79 | 29 | 576 |
 | last720d | 2024-09-20 | 27 | 1113 | 39 | 275 | 133 | 2529 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [nerdctl-2.3.5-freebsd-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.3.5/nerdctl-2.3.5-freebsd-amd64.tar.gz) | 10.2 MiB | `native/linux/x64` |
 | [nerdctl-2.3.5-go-mod-vendor.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.3.5/nerdctl-2.3.5-go-mod-vendor.tar.gz) | 7.1 MiB | `native/unknown` |
 | [nerdctl-2.3.5-linux-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.3.5/nerdctl-2.3.5-linux-amd64.tar.gz) | 11.2 MiB | `native/linux/x64` |
@@ -83,12 +83,12 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/containerd/nerdctl/releases/download/v2.3.5/SHA256SUMS) | 1.2 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/containerd/nerdctl/releases/download/v2.3.5/SHA256SUMS.asc) | 699 B | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **107** distros on [repology.org](https://repology.org/project/nerdctl). **11** are ✅ on the latest upstream release, **66** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/nerdctl) 上共有 **107** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**66** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Arch | `2.3.5` | ✅ latest |
 | Homebrew | `2.3.5` | ✅ latest |
 | Nix unstable | `2.3.5` | ✅ latest |
@@ -96,13 +96,13 @@ Reported by **107** distros on [repology.org](https://repology.org/project/nerdc
 | Alpine edge | `2.3.4` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.3.5` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nerdctl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+nerdctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `nerdctl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nerdctl.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/nerdctl.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:24:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:24:05Z._
