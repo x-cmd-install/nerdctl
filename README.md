@@ -14,11 +14,11 @@ x install nerdctl
 
 ## Code insight
 
-Total: **100,138** lines of code across **844** files in the top 5 languages.
+Total: **100,211** lines of code across **845** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 96,420 | 19,819 | 14,508 | 811 |
+| Go | 96,493 | 19,847 | 14,518 | 812 |
 | Sh | 1,858 | 586 | 431 | 21 |
 | Yaml | 1,087 | 48 | 100 | 8 |
 | Makefile | 382 | 110 | 88 | 2 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.0-beta.0` (2026-07-20)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 14
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 2963 · **Open PRs**: 55 · **Closed issues**: 1153 · **Open issues**: 297 · **Commits**: 6658
+- **Releases**: 96 · **Merged PRs**: 2964 · **Open PRs**: 54 · **Closed issues**: 1153 · **Open issues**: 297 · **Commits**: 6660
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 40 | 8 | 7 | 4 | 63 |
-| last60d | 2026-07-13 | 2 | 94 | 10 | 13 | 6 | 113 |
-| 90d | 2026-06-13 | 5 | 174 | 11 | 27 | 11 | 202 |
-| last180d | 2026-03-15 | 9 | 293 | 17 | 42 | 15 | 358 |
-| 360d | 2025-09-16 | 15 | 476 | 25 | 79 | 29 | 576 |
-| last720d | 2024-09-21 | 27 | 1111 | 39 | 273 | 132 | 2527 |
+| 30d | 2026-08-12 | 1 | 41 | 7 | 7 | 4 | 64 |
+| last60d | 2026-07-13 | 2 | 95 | 9 | 13 | 6 | 114 |
+| 90d | 2026-06-13 | 5 | 175 | 10 | 27 | 11 | 203 |
+| last180d | 2026-03-15 | 9 | 294 | 16 | 42 | 15 | 359 |
+| 360d | 2025-09-16 | 15 | 477 | 24 | 79 | 29 | 577 |
+| last720d | 2024-09-21 | 27 | 1112 | 38 | 273 | 132 | 2529 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:07:45Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:49:38Z._
