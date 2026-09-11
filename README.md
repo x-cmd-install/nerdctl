@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 40 | 8 | 7 | 4 | 63 |
-| last60d | 2026-07-12 | 2 | 96 | 10 | 14 | 7 | 113 |
-| 90d | 2026-06-12 | 5 | 175 | 11 | 28 | 11 | 202 |
-| last180d | 2026-03-14 | 9 | 293 | 17 | 42 | 15 | 358 |
-| 360d | 2025-09-15 | 15 | 477 | 26 | 79 | 29 | 576 |
-| last720d | 2024-09-20 | 27 | 1113 | 39 | 275 | 133 | 2529 |
+| 30d | 2026-08-12 | 1 | 40 | 8 | 7 | 4 | 63 |
+| last60d | 2026-07-13 | 2 | 94 | 10 | 13 | 6 | 113 |
+| 90d | 2026-06-13 | 5 | 174 | 11 | 27 | 11 | 202 |
+| last180d | 2026-03-15 | 9 | 293 | 17 | 42 | 15 | 358 |
+| 360d | 2025-09-16 | 15 | 476 | 25 | 79 | 29 | 576 |
+| last720d | 2024-09-21 | 27 | 1111 | 39 | 273 | 132 | 2527 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **107** distros on [repology.org](https://repology.org/project/nerdctl). **11** are ✅ on the latest upstream release, **66** are ⚠️ on an older version.
+Reported by **104** distros on [repology.org](https://repology.org/project/nerdctl). **12** are ✅ on the latest upstream release, **65** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:35:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:07:45Z._
