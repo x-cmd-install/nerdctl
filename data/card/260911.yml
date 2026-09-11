@@ -2,15 +2,15 @@ about:
   description: "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
   license: Apache-2.0
   homepage: 
-  head: bf35f5d
+  head: 01abfd8
   archived: false
   latestVersion: "v2.4.0-beta.0"
   latestRelease: "v2.3.5"
   latestPrerelease: "v2.4.0-beta.0"
-  collectedAt: 2026-09-11T06:07:36Z
+  collectedAt: 2026-09-11T18:49:30Z
 timeline:
   created: 2020-12-04
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-08-24
   lastRelease: 2026-07-20
   lastPrerelease: 2026-08-24
@@ -23,77 +23,77 @@ popularity:
   pullRequest: 3516
   issue: 1450
 language:
-  Go: 4111765
+  Go: 4115254
   Shell: 95157
   Makefile: 20358
   Dockerfile: 19247
   PowerShell: 1464
-totalBytes: 4247991
+totalBytes: 4251480
 recent:
   last30d:
     since: 2026-08-12
     release: 1
-    mergedPR: 40
-    openPR: 8
+    mergedPR: 41
+    openPR: 7
     closedIssue: 7
     openIssue: 4
-    commit: 63
+    commit: 64
   last60d:
     since: 2026-07-13
     release: 2
-    mergedPR: 94
-    openPR: 10
+    mergedPR: 95
+    openPR: 9
     closedIssue: 13
     openIssue: 6
-    commit: 113
+    commit: 114
   last90d:
     since: 2026-06-13
     release: 5
-    mergedPR: 174
-    openPR: 11
+    mergedPR: 175
+    openPR: 10
     closedIssue: 27
     openIssue: 11
-    commit: 202
+    commit: 203
   last180d:
     since: 2026-03-15
     release: 9
-    mergedPR: 293
-    openPR: 17
+    mergedPR: 294
+    openPR: 16
     closedIssue: 42
     openIssue: 15
-    commit: 358
+    commit: 359
   last360d:
     since: 2025-09-16
     release: 15
-    mergedPR: 476
-    openPR: 25
+    mergedPR: 477
+    openPR: 24
     closedIssue: 79
     openIssue: 29
-    commit: 576
+    commit: 577
   last720d:
     since: 2024-09-21
     release: 27
-    mergedPR: 1111
-    openPR: 39
+    mergedPR: 1112
+    openPR: 38
     closedIssue: 273
     openIssue: 132
-    commit: 2527
+    commit: 2529
 total:
   release: 96
-  mergedPR: 2963
-  openPR: 55
+  mergedPR: 2964
+  openPR: 54
   closedIssue: 1153
   openIssue: 297
-  commit: 6658
+  commit: 6660
 ---
 path: /home/runner/.x-repo/github.com/containerd/nerdctl
-collectedAt: 2026-09-11T06:07:39Z
+collectedAt: 2026-09-11T18:49:33Z
 loc:
   Go:
-    code: 96420
-    comments: 19819
-    blanks: 14508
-    files: 811
+    code: 96493
+    comments: 19847
+    blanks: 14518
+    files: 812
   Sh:
     code: 1858
     comments: 586
@@ -150,10 +150,10 @@ loc:
     blanks: 13
     files: 4
 total:
-  code: 100833
-  comments: 25511
-  blanks: 17280
-  files: 903
+  code: 100906
+  comments: 25539
+  blanks: 17290
+  files: 904
 ---
 date: "2026-09-07"
 repo:
