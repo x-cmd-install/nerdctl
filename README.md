@@ -14,11 +14,11 @@ x install nerdctl
 
 ## Code insight
 
-Total: **100,211** lines of code across **845** files in the top 5 languages.
+Total: **100,560** lines of code across **845** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 96,493 | 19,847 | 14,518 | 812 |
+| Go | 96,842 | 19,922 | 14,550 | 812 |
 | Sh | 1,858 | 586 | 431 | 21 |
 | Yaml | 1,087 | 48 | 100 | 8 |
 | Makefile | 382 | 110 | 88 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.0-beta.0` (2026-07-20)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 10,373 · **Forks**: 826 · **Open issues**: 1,451 · **Contributors**: 260
+- **Stars**: 10,375 · **Forks**: 826 · **Open issues**: 1,451 · **Contributors**: 260
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 2967 · **Open PRs**: 55 · **Closed issues**: 1153 · **Open issues**: 298 · **Commits**: 6666
+- **Releases**: 96 · **Merged PRs**: 2968 · **Open PRs**: 55 · **Closed issues**: 1153 · **Open issues**: 298 · **Commits**: 6668
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 44 | 8 | 7 | 5 | 48 |
-| last60d | 2026-07-16 | 2 | 89 | 10 | 12 | 7 | 99 |
-| 90d | 2026-06-16 | 4 | 175 | 11 | 26 | 12 | 190 |
-| last180d | 2026-03-18 | 9 | 293 | 17 | 42 | 16 | 358 |
-| 360d | 2025-09-19 | 15 | 478 | 24 | 78 | 30 | 578 |
-| last720d | 2024-09-24 | 27 | 1109 | 38 | 272 | 131 | 2524 |
+| 30d | 2026-08-16 | 1 | 44 | 9 | 7 | 5 | 48 |
+| last60d | 2026-07-17 | 2 | 87 | 11 | 10 | 7 | 99 |
+| 90d | 2026-06-17 | 4 | 175 | 11 | 26 | 12 | 191 |
+| last180d | 2026-03-19 | 9 | 292 | 17 | 42 | 16 | 359 |
+| 360d | 2025-09-20 | 15 | 479 | 24 | 78 | 30 | 579 |
+| last720d | 2024-09-25 | 27 | 1107 | 38 | 272 | 130 | 2520 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:33:26Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:25:58Z._
