@@ -14,14 +14,14 @@ x install nerdctl
 
 ## Code insight
 
-Total: **100,689** lines of code across **846** files in the top 5 languages.
+Total: **101,628** lines of code across **853** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 96,971 | 19,943 | 14,569 | 813 |
-| Sh | 1,858 | 586 | 431 | 21 |
-| Yaml | 1,087 | 48 | 100 | 8 |
-| Makefile | 382 | 110 | 88 | 2 |
+| Go | 97,238 | 20,053 | 14,605 | 814 |
+| Sh | 2,390 | 798 | 560 | 26 |
+| Yaml | 1,220 | 55 | 108 | 9 |
+| Makefile | 389 | 116 | 89 | 2 |
 | Dockerfile | 263 | 55 | 27 | 2 |
 
 ## OpenSSF Scorecard
@@ -41,28 +41,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.4.0-beta.0` (2026-07-20)
+- **Latest**: `v2.4.0-rc.0` (2026-07-20)
 - **Last commit**: 2026-09-17
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 10,381 · **Forks**: 828 · **Open issues**: 1,451 · **Contributors**: 260
+- **Stars**: 10,383 · **Forks**: 828 · **Open issues**: 1,452 · **Contributors**: 261
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 2971 · **Open PRs**: 55 · **Closed issues**: 1154 · **Open issues**: 297 · **Commits**: 6676
+- **Releases**: 97 · **Merged PRs**: 2981 · **Open PRs**: 51 · **Closed issues**: 1156 · **Open issues**: 296 · **Commits**: 6704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 41 | 9 | 8 | 3 | 53 |
-| last60d | 2026-07-19 | 2 | 86 | 11 | 11 | 6 | 104 |
-| 90d | 2026-06-19 | 4 | 164 | 11 | 26 | 9 | 196 |
-| last180d | 2026-03-21 | 9 | 295 | 17 | 43 | 15 | 364 |
-| 360d | 2025-09-22 | 15 | 482 | 24 | 78 | 29 | 584 |
-| last720d | 2024-09-27 | 27 | 1108 | 38 | 272 | 128 | 2518 |
+| 30d | 2026-08-19 | 2 | 46 | 5 | 9 | 3 | 70 |
+| last60d | 2026-07-20 | 3 | 91 | 7 | 13 | 5 | 122 |
+| 90d | 2026-06-20 | 4 | 173 | 7 | 28 | 8 | 214 |
+| last180d | 2026-03-22 | 10 | 304 | 13 | 45 | 14 | 382 |
+| 360d | 2025-09-23 | 16 | 492 | 20 | 80 | 28 | 602 |
+| last720d | 2024-09-28 | 28 | 1118 | 34 | 274 | 127 | 2542 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:22:00Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:13:41Z._
