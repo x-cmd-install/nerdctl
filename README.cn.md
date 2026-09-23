@@ -4,7 +4,7 @@
 
 contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 
-[![x-cmd/install — nerdctl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nerdctl.svg?lang=zh)](https://x-cmd.com/install/nerdctl)
+[![x-cmd/install — nerdctl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nerdctl.svg?lang=zh)](https://x-cmd.com/install/nerdctl)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install nerdctl
 
 ## 流行度
 
-- **Star**: 10,389 · **Fork**: 829 · **开放 issue**: 1,452 · **贡献者**: 261
+- **Star**: 10,389 · **Fork**: 829 · **开放 issue**: 1,453 · **贡献者**: 261
 
 ## 累计统计
 
-- **发布数**: 98 · **已合并 PR**: 2987 · **开放 PR**: 53 · **已关闭 issue**: 1157 · **开放 issue**: 295 · **提交数**: 6717
+- **发布数**: 98 · **已合并 PR**: 2987 · **开放 PR**: 53 · **已关闭 issue**: 1157 · **开放 issue**: 296 · **提交数**: 6717
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 48 | 6 | 8 | 2 | 74 |
-| last60d | 2026-07-24 | 3 | 87 | 9 | 14 | 4 | 119 |
-| 90d | 2026-06-24 | 5 | 164 | 9 | 24 | 7 | 195 |
-| last180d | 2026-03-26 | 11 | 307 | 15 | 44 | 13 | 380 |
-| 360d | 2025-09-27 | 16 | 496 | 22 | 80 | 27 | 606 |
-| last720d | 2024-10-02 | 29 | 1116 | 36 | 271 | 122 | 2545 |
+| 30d | 2026-08-24 | 3 | 47 | 6 | 7 | 3 | 74 |
+| last60d | 2026-07-25 | 3 | 87 | 8 | 14 | 5 | 119 |
+| 90d | 2026-06-25 | 5 | 161 | 9 | 24 | 8 | 195 |
+| last180d | 2026-03-27 | 11 | 306 | 15 | 44 | 14 | 380 |
+| 360d | 2025-09-28 | 16 | 496 | 22 | 80 | 28 | 606 |
+| last720d | 2024-10-03 | 29 | 1112 | 36 | 270 | 122 | 2531 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ nerdctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:23:24Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:18:20Z._

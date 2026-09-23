@@ -4,7 +4,7 @@
 
 contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 
-[![x-cmd/install — nerdctl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nerdctl.svg)](https://x-cmd.com/install/nerdctl)
+[![x-cmd/install — nerdctl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nerdctl.svg)](https://x-cmd.com/install/nerdctl)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,389 · **Forks**: 829 · **Open issues**: 1,452 · **Contributors**: 261
+- **Stars**: 10,389 · **Forks**: 829 · **Open issues**: 1,453 · **Contributors**: 261
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 2987 · **Open PRs**: 53 · **Closed issues**: 1157 · **Open issues**: 295 · **Commits**: 6717
+- **Releases**: 98 · **Merged PRs**: 2987 · **Open PRs**: 53 · **Closed issues**: 1157 · **Open issues**: 296 · **Commits**: 6717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 48 | 6 | 8 | 2 | 74 |
-| last60d | 2026-07-24 | 3 | 87 | 9 | 14 | 4 | 119 |
-| 90d | 2026-06-24 | 5 | 164 | 9 | 24 | 7 | 195 |
-| last180d | 2026-03-26 | 11 | 307 | 15 | 44 | 13 | 380 |
-| 360d | 2025-09-27 | 16 | 496 | 22 | 80 | 27 | 606 |
-| last720d | 2024-10-02 | 29 | 1116 | 36 | 271 | 122 | 2545 |
+| 30d | 2026-08-24 | 3 | 47 | 6 | 7 | 3 | 74 |
+| last60d | 2026-07-25 | 3 | 87 | 8 | 14 | 5 | 119 |
+| 90d | 2026-06-25 | 5 | 161 | 9 | 24 | 8 | 195 |
+| last180d | 2026-03-27 | 11 | 306 | 15 | 44 | 14 | 380 |
+| 360d | 2025-09-28 | 16 | 496 | 22 | 80 | 28 | 606 |
+| last720d | 2024-10-03 | 29 | 1112 | 36 | 270 | 122 | 2531 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:23:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:18:19Z._
