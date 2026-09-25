@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12143420,
       "digest": "sha256:778de08116e96267933fe76b480ecedd5a4f739e32f0be27009819f221b14021",
-      "download_count": 4134,
+      "download_count": 5553,
       "created_at": "2026-09-20T04:43:39Z",
       "updated_at": "2026-09-20T04:43:40Z",
       "browser_download_url": "https://github.com/containerd/nerdctl/releases/download/v2.4.0/nerdctl-2.4.0-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10877789,
       "digest": "sha256:934ea9b00f61ab57f28e863b12ae027c83856ea9683848cb5083c298cadb4c1b",
-      "download_count": 1658,
+      "download_count": 2249,
       "created_at": "2026-09-20T04:43:40Z",
       "updated_at": "2026-09-20T04:43:40Z",
       "browser_download_url": "https://github.com/containerd/nerdctl/releases/download/v2.4.0/nerdctl-2.4.0-linux-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 11331542,
       "digest": "sha256:641c83f1ea61fc5a121d97d9a0289a60e7d52aea3233f357e7f0d0f2661de8e2",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-09-20T04:43:40Z",
       "updated_at": "2026-09-20T04:43:41Z",
       "browser_download_url": "https://github.com/containerd/nerdctl/releases/download/v2.4.0/nerdctl-2.4.0-linux-riscv64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11290982,
       "digest": "sha256:dc3532f593751fc5697b111acf6b279d839b701c6cda96d670e60c8af974f3ca",
-      "download_count": 279,
+      "download_count": 338,
       "created_at": "2026-09-20T04:43:40Z",
       "updated_at": "2026-09-20T04:43:41Z",
       "browser_download_url": "https://github.com/containerd/nerdctl/releases/download/v2.4.0/nerdctl-2.4.0-windows-amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 293621324,
       "digest": "sha256:b37921eb15738b93790838104b65a9ff0bd9019b97be3b016ec06a21640976ac",
-      "download_count": 889,
+      "download_count": 1118,
       "created_at": "2026-09-20T04:43:41Z",
       "updated_at": "2026-09-20T04:43:47Z",
       "browser_download_url": "https://github.com/containerd/nerdctl/releases/download/v2.4.0/nerdctl-full-2.4.0-linux-amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 267122396,
       "digest": "sha256:b61a1aeaa3dc7670dad481f8611507fd7cad84d69f83b5f5bb0af2bcd844309e",
-      "download_count": 64,
+      "download_count": 72,
       "created_at": "2026-09-20T04:43:41Z",
       "updated_at": "2026-09-20T04:43:46Z",
       "browser_download_url": "https://github.com/containerd/nerdctl/releases/download/v2.4.0/nerdctl-full-2.4.0-linux-arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1211,
       "digest": "sha256:3dc35cebc9bb3f23491eeb930631954e3e286e9bd0131c0cb8490df5eaa21af9",
-      "download_count": 207,
+      "download_count": 249,
       "created_at": "2026-09-20T04:43:39Z",
       "updated_at": "2026-09-20T04:43:39Z",
       "browser_download_url": "https://github.com/containerd/nerdctl/releases/download/v2.4.0/SHA256SUMS"
