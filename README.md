@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.0` (2026-09-20)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-28
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 10,397 · **Forks**: 832 · **Open issues**: 1,453 · **Contributors**: 261
+- **Stars**: 10,399 · **Forks**: 832 · **Open issues**: 1,453 · **Contributors**: 262
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 2987 · **Open PRs**: 57 · **Closed issues**: 1157 · **Open issues**: 296 · **Commits**: 6717
+- **Releases**: 98 · **Merged PRs**: 2988 · **Open PRs**: 58 · **Closed issues**: 1157 · **Open issues**: 296 · **Commits**: 6720
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 44 | 10 | 7 | 3 | 64 |
-| last60d | 2026-07-30 | 3 | 83 | 11 | 14 | 4 | 105 |
-| 90d | 2026-06-30 | 4 | 147 | 13 | 19 | 7 | 168 |
-| last180d | 2026-04-01 | 10 | 297 | 19 | 43 | 14 | 360 |
-| 360d | 2025-10-03 | 14 | 493 | 26 | 78 | 28 | 605 |
-| last720d | 2024-10-08 | 29 | 1102 | 40 | 257 | 118 | 2505 |
+| 30d | 2026-08-30 | 2 | 45 | 11 | 7 | 3 | 66 |
+| last60d | 2026-07-31 | 3 | 84 | 12 | 11 | 4 | 107 |
+| 90d | 2026-07-01 | 4 | 145 | 14 | 19 | 7 | 170 |
+| last180d | 2026-04-02 | 10 | 295 | 20 | 43 | 14 | 362 |
+| 360d | 2025-10-04 | 14 | 494 | 27 | 78 | 28 | 607 |
+| last720d | 2024-10-09 | 29 | 1101 | 41 | 257 | 118 | 2505 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:26:46Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:52:35Z._
