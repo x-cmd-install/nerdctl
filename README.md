@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.0` (2026-09-20)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-02
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 10,408 · **Forks**: 834 · **Open issues**: 1,455 · **Contributors**: 262
+- **Stars**: 10,412 · **Forks**: 833 · **Open issues**: 1,455 · **Contributors**: 262
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 2992 · **Open PRs**: 57 · **Closed issues**: 1158 · **Open issues**: 297 · **Commits**: 6728
+- **Releases**: 98 · **Merged PRs**: 2994 · **Open PRs**: 55 · **Closed issues**: 1158 · **Open issues**: 297 · **Commits**: 6732
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 44 | 9 | 7 | 3 | 70 |
-| last60d | 2026-08-02 | 3 | 83 | 11 | 12 | 5 | 111 |
-| 90d | 2026-07-03 | 4 | 143 | 13 | 20 | 8 | 174 |
-| last180d | 2026-04-04 | 10 | 297 | 19 | 44 | 15 | 366 |
-| 360d | 2025-10-06 | 14 | 498 | 26 | 79 | 29 | 611 |
-| last720d | 2024-10-11 | 29 | 1104 | 40 | 257 | 119 | 2500 |
+| 30d | 2026-09-02 | 2 | 44 | 6 | 6 | 3 | 72 |
+| last60d | 2026-08-03 | 3 | 82 | 9 | 12 | 5 | 113 |
+| 90d | 2026-07-04 | 4 | 143 | 11 | 20 | 8 | 176 |
+| last180d | 2026-04-05 | 10 | 297 | 17 | 43 | 15 | 368 |
+| 360d | 2025-10-07 | 14 | 500 | 24 | 79 | 29 | 613 |
+| last720d | 2024-10-12 | 29 | 1102 | 38 | 257 | 117 | 2502 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:02:52Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:36:48Z._
