@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,433 · **Forks**: 834 · **Open issues**: 1,458 · **Contributors**: 265
+- **Stars**: 10,437 · **Forks**: 834 · **Open issues**: 1,458 · **Contributors**: 265
 
 ## Totals (cumulative)
 
-- **Releases**: 99 · **Merged PRs**: 3012 · **Open PRs**: 58 · **Closed issues**: 1165 · **Open issues**: 293 · **Commits**: 6776
+- **Releases**: 99 · **Merged PRs**: 3014 · **Open PRs**: 62 · **Closed issues**: 1165 · **Open issues**: 293 · **Commits**: 6780
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 3 | 36 | 10 | 4 | 3 | 40 |
-| last60d | 2026-08-17 | 4 | 87 | 12 | 13 | 5 | 123 |
-| 90d | 2026-07-18 | 5 | 128 | 14 | 19 | 5 | 168 |
-| last180d | 2026-04-19 | 11 | 293 | 19 | 46 | 13 | 370 |
-| 360d | 2025-10-21 | 15 | 503 | 27 | 80 | 28 | 617 |
-| last720d | 2024-10-26 | 29 | 1078 | 41 | 252 | 109 | 2438 |
+| 30d | 2026-09-17 | 3 | 32 | 14 | 3 | 3 | 42 |
+| last60d | 2026-08-18 | 4 | 84 | 16 | 13 | 5 | 125 |
+| 90d | 2026-07-19 | 5 | 129 | 18 | 19 | 5 | 170 |
+| last180d | 2026-04-20 | 11 | 294 | 23 | 46 | 13 | 372 |
+| 360d | 2025-10-22 | 15 | 505 | 31 | 80 | 28 | 619 |
+| last720d | 2024-10-27 | 29 | 1080 | 45 | 252 | 109 | 2442 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:33:07Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:20:27Z._
