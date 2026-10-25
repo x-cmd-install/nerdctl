@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,449 · **Forks**: 836 · **Open issues**: 1,464 · **Contributors**: 263
+- **Stars**: 10,452 · **Forks**: 836 · **Open issues**: 1,464 · **Contributors**: 263
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 30 | 14 | 3 | 8 | 37 |
-| last60d | 2026-08-25 | 3 | 80 | 16 | 10 | 11 | 114 |
-| 90d | 2026-07-26 | 4 | 121 | 18 | 19 | 11 | 161 |
-| last180d | 2026-04-27 | 11 | 295 | 24 | 44 | 19 | 361 |
-| 360d | 2025-10-29 | 15 | 505 | 32 | 77 | 34 | 611 |
-| last720d | 2024-11-03 | 29 | 1063 | 45 | 248 | 114 | 2408 |
+| 30d | 2026-09-25 | 1 | 27 | 14 | 3 | 8 | 37 |
+| last60d | 2026-08-26 | 3 | 79 | 16 | 10 | 11 | 114 |
+| 90d | 2026-07-27 | 4 | 118 | 18 | 19 | 11 | 161 |
+| last180d | 2026-04-28 | 11 | 294 | 24 | 43 | 19 | 361 |
+| 360d | 2025-10-30 | 15 | 504 | 32 | 77 | 34 | 611 |
+| last720d | 2024-11-04 | 29 | 1059 | 45 | 248 | 114 | 2408 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **104** distros on [repology.org](https://repology.org/project/nerdctl). **11** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
+Reported by **105** distros on [repology.org](https://repology.org/project/nerdctl). **11** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:35:59Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:37:35Z._
