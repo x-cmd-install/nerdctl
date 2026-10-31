@@ -1,72 +1,6 @@
 - repo: amazon_2
   srcname: nerdctl
   visiblename: nerdctl
-  version: 1.1.0
-  origversion: 1.1.0-1.amzn2.0.2
-  status: legacy
-  summary: nerdctl is a Docker-compatible CLI for containerd.
-  licenses:
-    - Apache 2.0 License
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: nerdctl
-  visiblename: nerdctl
-  version: 1.1.0
-  origversion: 1.1.0-1.amzn2.0.3
-  status: legacy
-  summary: nerdctl is a Docker-compatible CLI for containerd.
-  licenses:
-    - Apache 2.0 License
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: nerdctl
-  visiblename: nerdctl
-  version: 1.6.2
-  origversion: 1.6.2-1.amzn2.0.2
-  status: legacy
-  summary: nerdctl is a Docker-compatible CLI for containerd.
-  licenses:
-    - Apache 2.0 License
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: nerdctl
-  visiblename: nerdctl
-  version: 1.7.6
-  origversion: 1.7.6-1.amzn2.0.1
-  status: legacy
-  summary: nerdctl is a Docker-compatible CLI for containerd.
-  licenses:
-    - Apache 2.0 License
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: nerdctl
-  visiblename: nerdctl
-  version: 1.7.6
-  origversion: 1.7.6-1.amzn2.0.2
-  status: legacy
-  summary: nerdctl is a Docker-compatible CLI for containerd.
-  licenses:
-    - Apache 2.0 License
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: nerdctl
-  visiblename: nerdctl
-  version: 1.7.7
-  origversion: 1.7.7-1.amzn2.0.1
-  status: legacy
-  summary: nerdctl is a Docker-compatible CLI for containerd.
-  licenses:
-    - Apache 2.0 License
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: nerdctl
-  visiblename: nerdctl
   version: 2.0.2
   origversion: 2.0.2-1.amzn2.0.1
   status: legacy
@@ -122,6 +56,17 @@
 - repo: amazon_2
   srcname: nerdctl
   visiblename: nerdctl
+  version: 2.1.3
+  origversion: 2.1.3-1.amzn2.0.1
+  status: legacy
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
   version: 2.1.5
   origversion: 2.1.5-1.amzn2.0.1
   status: legacy
@@ -144,8 +89,8 @@
 - repo: amazon_2
   srcname: nerdctl
   visiblename: nerdctl
-  version: 2.1.5
-  origversion: 2.1.5-1.amzn2.0.3
+  version: 2.2.1
+  origversion: 2.2.1-1.amzn2.0.1
   status: legacy
   summary: nerdctl is a Docker-compatible CLI for containerd.
   licenses:
@@ -155,8 +100,8 @@
 - repo: amazon_2
   srcname: nerdctl
   visiblename: nerdctl
-  version: 2.2.1
-  origversion: 2.2.1-1.amzn2.0.1
+  version: 2.1.5
+  origversion: 2.1.5-1.amzn2.0.3
   status: legacy
   summary: nerdctl is a Docker-compatible CLI for containerd.
   licenses:
@@ -244,30 +189,8 @@
   srcname: nerdctl
   visiblename: nerdctl
   version: 2.3.5
-  origversion: 2.3.5-1.amzn2.0.2
+  origversion: 2.3.5-1.amzn2.0.3
   status: outdated
-  summary: nerdctl is a Docker-compatible CLI for containerd.
-  licenses:
-    - Apache 2.0 License
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: nerdctl
-  visiblename: nerdctl
-  version: 1.1.0
-  origversion: 1.1.0-1.amzn2.0.1
-  status: legacy
-  summary: nerdctl is a Docker-compatible CLI for containerd.
-  licenses:
-    - Apache 2.0 License
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: nerdctl
-  visiblename: nerdctl
-  version: 2.1.3
-  origversion: 2.1.3-1.amzn2.0.1
-  status: legacy
   summary: nerdctl is a Docker-compatible CLI for containerd.
   licenses:
     - Apache 2.0 License
@@ -689,6 +612,17 @@
     - folliekazetani@protonmail.com
   licenses:
     - Apache-2.0
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 1.7.7
+  origversion: 1.7.7-1.amzn2.0.1
+  status: legacy
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
 - repo: alpine_3_23
   subrepo: community
   srcname: nerdctl
@@ -883,8 +817,8 @@
     - nerdctl-debuginfo
     - nerdctl-rootless
   visiblename: nerdctl
-  version: 2.4.1
-  origversion: 2.4.1-alt1
+  version: 2.4.2
+  origversion: 2.4.2-alt1
   status: newest
   summary: contaiNERD CTL - Docker-compatible CLI for containerd
   maintainers:
@@ -893,6 +827,83 @@
     - Apache-2.0
   categories:
     - System/Configuration/Other
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 1.1.0
+  origversion: 1.1.0-1.amzn2.0.1
+  status: legacy
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 1.1.0
+  origversion: 1.1.0-1.amzn2.0.2
+  status: legacy
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 1.1.0
+  origversion: 1.1.0-1.amzn2.0.3
+  status: legacy
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 1.6.2
+  origversion: 1.6.2-1.amzn2.0.2
+  status: legacy
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 1.7.6
+  origversion: 1.7.6-1.amzn2.0.1
+  status: legacy
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 1.7.6
+  origversion: 1.7.6-1.amzn2.0.2
+  status: legacy
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 2.3.5
+  origversion: 2.3.5-1.amzn2.0.2
+  status: outdated
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
 - repo: aosc
   srcname: app-containers/nerdctl
   binname: nerdctl
@@ -912,7 +923,7 @@
   visiblename: nerdctl
   version: 2.4.1
   origversion: 2.4.1-1
-  status: newest
+  status: outdated
   summary: Docker-compatible CLI for containerd
   licenses:
     - Apache-2.0
@@ -978,7 +989,7 @@
   visiblename: sysutils/nerdctl
   version: 2.4.1
   origversion: 2.4.1_2
-  status: newest
+  status: outdated
   summary: Docker-compatible CLI for containerd
   maintainers:
     - laurent@freebsd.org
@@ -1038,7 +1049,7 @@
 - repo: homebrew
   srcname: nerdctl
   visiblename: nerdctl
-  version: 2.4.1
+  version: 2.4.2
   origversion: null
   status: newest
   summary: ContaiNERD CTL - Docker-compatible CLI for containerd
@@ -1152,7 +1163,7 @@
   visiblename: nerdctl
   version: 2.4.1
   origversion: 2.4.1-1
-  status: newest
+  status: outdated
   summary: Docker-compatible CLI for containerd
   licenses:
     - Apache-2.0
@@ -1163,7 +1174,7 @@
   visiblename: nerdctl
   version: 2.4.1
   origversion: 2.4.1-1
-  status: newest
+  status: outdated
   summary: Docker-compatible CLI for containerd
   licenses:
     - Apache-2.0
@@ -1233,7 +1244,7 @@
   visiblename: nerdctl
   version: 2.4.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Docker-compatible CLI for containerd
   maintainers:
     - developerguyn@gmail.com
@@ -1251,7 +1262,7 @@
   visiblename: nerdctl
   version: 2.4.1
   origversion: 2.4.1-1.1
-  status: newest
+  status: outdated
   summary: Docker-compatible CLI for containerd
   licenses:
     - Apache-2.0
@@ -1276,7 +1287,7 @@
   visiblename: nerdctl
   version: 2.4.1
   origversion: 2.4.1-1
-  status: newest
+  status: outdated
   summary: Docker-compatible CLI for containerd
   licenses:
     - Apache-2.0
@@ -1284,7 +1295,7 @@
   subrepo: main
   binname: nerdctl
   visiblename: nerdctl
-  version: 2.4.1
+  version: 2.4.2
   origversion: null
   status: newest
   licenses:
@@ -1294,7 +1305,7 @@
   visiblename: system/nerdctl
   version: 2.4.1
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - slackbuilds@dscp.org
   categories:
