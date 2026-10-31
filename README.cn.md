@@ -14,11 +14,11 @@ x install nerdctl
 
 ## 代码洞察
 
-合计: **102,668** 行代码（覆盖前 5 种语言、共 **857** 个文件）。
+合计: **103,058** 行代码（覆盖前 5 种语言、共 **858** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 98,278 | 20,207 | 14,732 | 818 |
+| Go | 98,668 | 20,235 | 14,754 | 819 |
 | Sh | 2,390 | 798 | 560 | 26 |
 | Yaml | 1,220 | 55 | 108 | 9 |
 | Makefile | 389 | 116 | 89 | 2 |
@@ -41,60 +41,60 @@ x install nerdctl
 
 ## 发布
 
-- **最新版本**: `v2.4.1` (2026-10-02)
+- **最新版本**: `v2.4.2` (2026-10-30)
 - **最近提交**: 2026-10-30
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 10,460 · **Fork**: 840 · **开放 issue**: 1,467 · **贡献者**: 266
+- **Star**: 10,459 · **Fork**: 840 · **开放 issue**: 1,467 · **贡献者**: 268
 
 ## 累计统计
 
-- **发布数**: 99 · **已合并 PR**: 3036 · **开放 PR**: 63 · **已关闭 issue**: 1172 · **开放 issue**: 295 · **提交数**: 6834
+- **发布数**: 100 · **已合并 PR**: 3041 · **开放 PR**: 60 · **已关闭 issue**: 1174 · **开放 issue**: 293 · **提交数**: 6844
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 37 | 15 | 3 | 9 | 53 |
-| last60d | 2026-08-31 | 3 | 89 | 17 | 12 | 12 | 133 |
-| 90d | 2026-08-01 | 4 | 128 | 18 | 17 | 12 | 177 |
-| last180d | 2026-05-03 | 10 | 302 | 24 | 45 | 20 | 379 |
-| 360d | 2025-11-04 | 14 | 512 | 31 | 77 | 33 | 615 |
-| last720d | 2024-11-09 | 28 | 1062 | 45 | 248 | 111 | 2403 |
+| 30d | 2026-10-01 | 2 | 41 | 13 | 5 | 7 | 58 |
+| last60d | 2026-09-01 | 4 | 93 | 13 | 13 | 9 | 138 |
+| 90d | 2026-08-02 | 5 | 132 | 15 | 19 | 10 | 182 |
+| last180d | 2026-05-04 | 11 | 307 | 21 | 47 | 18 | 384 |
+| 360d | 2025-11-05 | 15 | 513 | 28 | 79 | 31 | 620 |
+| last720d | 2024-11-10 | 29 | 1067 | 42 | 250 | 108 | 2412 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [nerdctl-2.4.1-freebsd-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-freebsd-amd64.tar.gz) | 10.5 MiB | `native/linux/x64` |
-| [nerdctl-2.4.1-go-mod-vendor.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-go-mod-vendor.tar.gz) | 7.4 MiB | `native/unknown` |
-| [nerdctl-2.4.1-linux-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-linux-amd64.tar.gz) | 11.6 MiB | `native/linux/x64` |
-| [nerdctl-2.4.1-linux-arm-v7.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-linux-arm-v7.tar.gz) | 10.9 MiB | `native/linux/arm` |
-| [nerdctl-2.4.1-linux-arm64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-linux-arm64.tar.gz) | 10.4 MiB | `native/linux/arm64` |
-| [nerdctl-2.4.1-linux-loong64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-linux-loong64.tar.gz) | 11.0 MiB | `native/unknown` |
-| [nerdctl-2.4.1-linux-ppc64le.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-linux-ppc64le.tar.gz) | 10.5 MiB | `native/unknown` |
-| [nerdctl-2.4.1-linux-riscv64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-linux-riscv64.tar.gz) | 10.8 MiB | `native/linux/riscv64` |
-| [nerdctl-2.4.1-linux-s390x.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-linux-s390x.tar.gz) | 11.3 MiB | `native/unknown` |
-| [nerdctl-2.4.1-windows-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-2.4.1-windows-amd64.tar.gz) | 10.8 MiB | `native/win/x64` |
-| [nerdctl-full-2.4.1-linux-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-full-2.4.1-linux-amd64.tar.gz) | 279.7 MiB | `native/linux/x64` |
-| [nerdctl-full-2.4.1-linux-arm64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.1/nerdctl-full-2.4.1-linux-arm64.tar.gz) | 254.4 MiB | `native/linux/arm64` |
-| [SHA256SUMS](https://github.com/containerd/nerdctl/releases/download/v2.4.1/SHA256SUMS) | 1.2 KiB | `other` |
-| [SHA256SUMS.asc](https://github.com/containerd/nerdctl/releases/download/v2.4.1/SHA256SUMS.asc) | 699 B | `other` |
+| [nerdctl-2.4.2-freebsd-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-freebsd-amd64.tar.gz) | 10.6 MiB | `native/linux/x64` |
+| [nerdctl-2.4.2-go-mod-vendor.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-go-mod-vendor.tar.gz) | 7.5 MiB | `native/unknown` |
+| [nerdctl-2.4.2-linux-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-linux-amd64.tar.gz) | 11.7 MiB | `native/linux/x64` |
+| [nerdctl-2.4.2-linux-arm-v7.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-linux-arm-v7.tar.gz) | 10.9 MiB | `native/linux/arm` |
+| [nerdctl-2.4.2-linux-arm64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-linux-arm64.tar.gz) | 10.4 MiB | `native/linux/arm64` |
+| [nerdctl-2.4.2-linux-loong64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-linux-loong64.tar.gz) | 11.0 MiB | `native/unknown` |
+| [nerdctl-2.4.2-linux-ppc64le.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-linux-ppc64le.tar.gz) | 10.5 MiB | `native/unknown` |
+| [nerdctl-2.4.2-linux-riscv64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-linux-riscv64.tar.gz) | 10.9 MiB | `native/linux/riscv64` |
+| [nerdctl-2.4.2-linux-s390x.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-linux-s390x.tar.gz) | 11.4 MiB | `native/unknown` |
+| [nerdctl-2.4.2-windows-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-windows-amd64.tar.gz) | 10.8 MiB | `native/win/x64` |
+| [nerdctl-full-2.4.2-linux-amd64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-full-2.4.2-linux-amd64.tar.gz) | 283.9 MiB | `native/linux/x64` |
+| [nerdctl-full-2.4.2-linux-arm64.tar.gz](https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-full-2.4.2-linux-arm64.tar.gz) | 258.0 MiB | `native/linux/arm64` |
+| [SHA256SUMS](https://github.com/containerd/nerdctl/releases/download/v2.4.2/SHA256SUMS) | 1.2 KiB | `other` |
+| [SHA256SUMS.asc](https://github.com/containerd/nerdctl/releases/download/v2.4.2/SHA256SUMS.asc) | 699 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/nerdctl) 上共有 **105** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**64** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/nerdctl) 上共有 **106** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**73** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `2.4.1` | ✅ latest |
-| Homebrew | `2.4.1` | ✅ latest |
-| Nix unstable | `2.4.1` | ✅ latest |
+| Arch | `2.4.1` | ⚠️ outdated |
+| Homebrew | `2.4.2` | ✅ latest |
+| Nix unstable | `2.4.1` | ⚠️ outdated |
 | Void | `2.3.3` | ⚠️ outdated |
 | Alpine edge | `2.3.5` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.4.1` | ✅ latest |
+| openSUSE Tumbleweed | `2.4.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -105,4 +105,4 @@ nerdctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T06:57:30Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T06:40:01Z._
