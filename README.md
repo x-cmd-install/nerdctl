@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,459 · **Forks**: 840 · **Open issues**: 1,467 · **Contributors**: 268
+- **Stars**: 10,460 · **Forks**: 838 · **Open issues**: 1,468 · **Contributors**: 268
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 3041 · **Open PRs**: 60 · **Closed issues**: 1174 · **Open issues**: 293 · **Commits**: 6844
+- **Releases**: 100 · **Merged PRs**: 3041 · **Open PRs**: 62 · **Closed issues**: 1174 · **Open issues**: 294 · **Commits**: 6844
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 41 | 13 | 5 | 7 | 58 |
-| last60d | 2026-09-01 | 4 | 93 | 13 | 13 | 9 | 138 |
-| 90d | 2026-08-02 | 5 | 132 | 15 | 19 | 10 | 182 |
-| last180d | 2026-05-04 | 11 | 307 | 21 | 47 | 18 | 384 |
-| 360d | 2025-11-05 | 15 | 513 | 28 | 79 | 31 | 620 |
-| last720d | 2024-11-10 | 29 | 1067 | 42 | 250 | 108 | 2412 |
+| 30d | 2026-10-02 | 2 | 38 | 15 | 5 | 7 | 42 |
+| last60d | 2026-09-02 | 4 | 91 | 15 | 12 | 10 | 123 |
+| 90d | 2026-08-03 | 5 | 129 | 17 | 19 | 11 | 169 |
+| last180d | 2026-05-05 | 11 | 306 | 22 | 46 | 19 | 377 |
+| 360d | 2025-11-06 | 15 | 508 | 30 | 79 | 31 | 609 |
+| last720d | 2024-11-11 | 29 | 1067 | 44 | 250 | 109 | 2412 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **106** distros on [repology.org](https://repology.org/project/nerdctl). **3** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
+Reported by **106** distros on [repology.org](https://repology.org/project/nerdctl). **4** are ✅ on the latest upstream release, **72** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:40:01Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:05:31Z._
