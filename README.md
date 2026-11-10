@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,471 · **Forks**: 841 · **Open issues**: 1,474 · **Contributors**: 268
+- **Stars**: 10,474 · **Forks**: 844 · **Open issues**: 1,476 · **Contributors**: 267
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 3047 · **Open PRs**: 69 · **Closed issues**: 1176 · **Open issues**: 298 · **Commits**: 6857
+- **Releases**: 100 · **Merged PRs**: 3046 · **Open PRs**: 74 · **Closed issues**: 1175 · **Open issues**: 301 · **Commits**: 6857
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 35 | 21 | 6 | 11 | 49 |
-| last60d | 2026-09-09 | 4 | 81 | 22 | 12 | 14 | 130 |
-| 90d | 2026-08-10 | 5 | 123 | 24 | 20 | 15 | 176 |
-| last180d | 2026-05-12 | 10 | 305 | 28 | 48 | 22 | 384 |
-| 360d | 2025-11-13 | 14 | 510 | 35 | 80 | 34 | 616 |
-| last720d | 2024-11-18 | 29 | 1066 | 51 | 251 | 111 | 2418 |
+| 30d | 2026-10-11 | 1 | 35 | 26 | 5 | 13 | 36 |
+| last60d | 2026-09-11 | 4 | 75 | 27 | 10 | 16 | 100 |
+| 90d | 2026-08-12 | 5 | 123 | 29 | 19 | 18 | 174 |
+| last180d | 2026-05-14 | 10 | 299 | 33 | 47 | 24 | 363 |
+| 360d | 2025-11-15 | 14 | 509 | 40 | 79 | 37 | 612 |
+| last720d | 2024-11-20 | 29 | 1060 | 56 | 250 | 114 | 2408 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **106** distros on [repology.org](https://repology.org/project/nerdctl). **7** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
+Reported by **106** distros on [repology.org](https://repology.org/project/nerdctl). **13** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,7 +94,7 @@ Reported by **106** distros on [repology.org](https://repology.org/project/nerdc
 | Nix unstable | `2.4.1` | ⚠️ outdated |
 | Void | `2.3.3` | ⚠️ outdated |
 | Alpine edge | `2.3.5` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.4.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.4.2` | ✅ latest |
 
 ## Improve this data
 
@@ -105,4 +105,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:07:35Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:45:27Z._
