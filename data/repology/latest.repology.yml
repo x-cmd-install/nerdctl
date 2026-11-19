@@ -9,6 +9,55 @@
     - Apache 2.0 License
   categories:
     - Unspecified
+- repo: amazon_2
+  srcname: nerdctl
+  visiblename: nerdctl
+  version: 2.3.5
+  origversion: 2.3.5-1.amzn2.0.4
+  status: outdated
+  summary: nerdctl is a Docker-compatible CLI for containerd.
+  licenses:
+    - Apache 2.0 License
+  categories:
+    - Unspecified
+- repo: aosc
+  srcname: app-containers/nerdctl
+  binname: nerdctl
+  visiblename: nerdctl
+  version: 2.3.4
+  origversion: 2.3.4-2
+  status: outdated
+  summary: Docker-compatible CLI for containerd
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - admin
+- repo: alpine_3_17
+  subrepo: community
+  srcname: nerdctl
+  binname: nerdctl
+  visiblename: nerdctl
+  version: 1.0.0
+  origversion: 1.0.0-r5
+  status: outdated
+  summary: Docker-compatible CLI for containerd
+  maintainers:
+    - alice@ayaya.dev
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: nerdctl
+  binname: nerdctl-doc
+  visiblename: nerdctl-doc
+  version: 1.0.0
+  origversion: 1.0.0-r5
+  status: outdated
+  summary: Docker-compatible CLI for containerd (documentation)
+  maintainers:
+    - alice@ayaya.dev
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_17
   subrepo: community
   srcname: nerdctl
@@ -44,32 +93,6 @@
   origversion: 1.0.0-r5
   status: outdated
   summary: Bash completions for nerdctl
-  maintainers:
-    - alice@ayaya.dev
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: nerdctl
-  binname: nerdctl
-  visiblename: nerdctl
-  version: 1.0.0
-  origversion: 1.0.0-r5
-  status: outdated
-  summary: Docker-compatible CLI for containerd
-  maintainers:
-    - alice@ayaya.dev
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: nerdctl
-  binname: nerdctl-doc
-  visiblename: nerdctl-doc
-  version: 1.0.0
-  origversion: 1.0.0-r5
-  status: outdated
-  summary: Docker-compatible CLI for containerd (documentation)
   maintainers:
     - alice@ayaya.dev
   licenses:
@@ -358,17 +381,6 @@
   summary: Bash completions for nerdctl
   maintainers:
     - folliekazetani@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: chimera
-  subrepo: main
-  srcname: nerdctl
-  binname: nerdctl
-  visiblename: nerdctl
-  version: 2.4.2
-  origversion: 2.4.2-r0
-  status: newest
-  summary: Containerd CLI
   licenses:
     - Apache-2.0
 - repo: alpine_3_22
@@ -915,18 +927,6 @@
     - Apache 2.0 License
   categories:
     - Unspecified
-- repo: aosc
-  srcname: app-containers/nerdctl
-  binname: nerdctl
-  visiblename: nerdctl
-  version: 2.3.4
-  origversion: 2.3.4-1
-  status: outdated
-  summary: Docker-compatible CLI for containerd
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - admin
 - repo: arch
   subrepo: extra
   srcname: nerdctl
@@ -950,6 +950,17 @@
     - sksat@aur
   licenses:
     - Apache
+- repo: chimera
+  subrepo: main
+  srcname: nerdctl
+  binname: nerdctl
+  visiblename: nerdctl
+  version: 2.4.2
+  origversion: 2.4.2-r0
+  status: newest
+  summary: Containerd CLI
+  licenses:
+    - Apache-2.0
 - repo: chimera
   subrepo: main
   srcname: nerdctl
