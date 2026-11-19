@@ -14,11 +14,11 @@ x install nerdctl
 
 ## Code insight
 
-Total: **103,750** lines of code across **867** files in the top 5 languages.
+Total: **103,882** lines of code across **869** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 99,357 | 20,406 | 14,840 | 828 |
+| Go | 99,489 | 20,440 | 14,856 | 830 |
 | Sh | 2,393 | 808 | 561 | 26 |
 | Yaml | 1,220 | 55 | 108 | 9 |
 | Makefile | 389 | 116 | 89 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.2` (2026-10-30)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 10,486 · **Forks**: 848 · **Open issues**: 1,480 · **Contributors**: 269
+- **Stars**: 10,491 · **Forks**: 849 · **Open issues**: 1,480 · **Contributors**: 270
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 3055 · **Open PRs**: 72 · **Closed issues**: 1180 · **Open issues**: 300 · **Commits**: 6875
+- **Releases**: 100 · **Merged PRs**: 3059 · **Open PRs**: 71 · **Closed issues**: 1180 · **Open issues**: 300 · **Commits**: 6883
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 32 | 23 | 8 | 13 | 34 |
-| last60d | 2026-09-18 | 4 | 70 | 25 | 12 | 16 | 83 |
-| 90d | 2026-08-19 | 5 | 121 | 27 | 22 | 18 | 162 |
-| last180d | 2026-05-21 | 10 | 293 | 29 | 49 | 23 | 352 |
-| 360d | 2025-11-22 | 14 | 512 | 38 | 83 | 36 | 614 |
-| last720d | 2024-11-27 | 29 | 1061 | 53 | 251 | 113 | 2409 |
+| 30d | 2026-10-20 | 1 | 31 | 22 | 7 | 13 | 38 |
+| last60d | 2026-09-20 | 3 | 71 | 24 | 12 | 16 | 87 |
+| 90d | 2026-08-21 | 5 | 121 | 25 | 21 | 18 | 166 |
+| last180d | 2026-05-23 | 9 | 290 | 28 | 49 | 23 | 356 |
+| 360d | 2025-11-24 | 14 | 513 | 37 | 81 | 36 | 618 |
+| last720d | 2024-11-29 | 29 | 1064 | 52 | 249 | 112 | 2413 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **106** distros on [repology.org](https://repology.org/project/nerdctl). **15** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
+Reported by **107** distros on [repology.org](https://repology.org/project/nerdctl). **15** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:51:35Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:15:45Z._
