@@ -14,11 +14,11 @@ x install nerdctl
 
 ## Code insight
 
-Total: **104,038** lines of code across **869** files in the top 5 languages.
+Total: **104,295** lines of code across **870** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 99,645 | 20,448 | 14,869 | 830 |
+| Go | 99,902 | 20,563 | 14,915 | 831 |
 | Sh | 2,393 | 808 | 561 | 26 |
 | Yaml | 1,220 | 55 | 108 | 9 |
 | Makefile | 389 | 116 | 89 | 2 |
@@ -26,7 +26,7 @@ Total: **104,038** lines of code across **869** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.8 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.2` (2026-10-30)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 10,496 · **Forks**: 852 · **Open issues**: 1,480 · **Contributors**: 271
+- **Stars**: 10,496 · **Forks**: 852 · **Open issues**: 1,480 · **Contributors**: 273
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 3063 · **Open PRs**: 71 · **Closed issues**: 1180 · **Open issues**: 300 · **Commits**: 6892
+- **Releases**: 100 · **Merged PRs**: 3066 · **Open PRs**: 69 · **Closed issues**: 1180 · **Open issues**: 300 · **Commits**: 6898
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 33 | 21 | 6 | 10 | 23 |
-| last60d | 2026-09-25 | 2 | 69 | 24 | 12 | 15 | 86 |
-| 90d | 2026-08-26 | 4 | 122 | 25 | 19 | 18 | 168 |
-| last180d | 2026-05-28 | 9 | 287 | 28 | 48 | 23 | 354 |
-| 360d | 2025-11-29 | 14 | 512 | 37 | 78 | 36 | 608 |
-| last720d | 2024-12-04 | 28 | 1053 | 52 | 242 | 110 | 2397 |
+| 30d | 2026-10-26 | 1 | 33 | 19 | 6 | 10 | 26 |
+| last60d | 2026-09-26 | 2 | 72 | 22 | 12 | 15 | 89 |
+| 90d | 2026-08-27 | 4 | 125 | 23 | 19 | 18 | 171 |
+| last180d | 2026-05-29 | 9 | 289 | 25 | 48 | 23 | 357 |
+| 360d | 2025-11-30 | 14 | 515 | 35 | 78 | 36 | 611 |
+| last720d | 2024-12-05 | 28 | 1056 | 50 | 241 | 109 | 2394 |
 
 ## Release assets
 
@@ -83,19 +83,6 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/containerd/nerdctl/releases/download/v2.4.2/SHA256SUMS) | 1.2 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/containerd/nerdctl/releases/download/v2.4.2/SHA256SUMS.asc) | 699 B | `other` |
 
-## Distribution status
-
-Reported by **107** distros on [repology.org](https://repology.org/project/nerdctl). **16** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.4.2` | ✅ latest |
-| Homebrew | `2.4.2` | ✅ latest |
-| Nix unstable | `2.4.2` | ✅ latest |
-| Void | `2.3.3` | ⚠️ outdated |
-| Alpine edge | `2.3.5` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.4.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nerdctl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +92,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:49:20Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:26:15Z._
