@@ -42,27 +42,27 @@ x install nerdctl
 ## 发布
 
 - **最新版本**: `v2.4.2` (2026-10-30)
-- **最近提交**: 2026-11-27
+- **最近提交**: 2026-11-28
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 10,500 · **Fork**: 852 · **开放 issue**: 1,480 · **贡献者**: 277
+- **Star**: 10,500 · **Fork**: 854 · **开放 issue**: 1,481 · **贡献者**: 277
 
 ## 累计统计
 
-- **发布数**: 100 · **已合并 PR**: 3084 · **开放 PR**: 58 · **已关闭 issue**: 1184 · **开放 issue**: 296 · **提交数**: 6944
+- **发布数**: 100 · **已合并 PR**: 3085 · **开放 PR**: 60 · **已关闭 issue**: 1184 · **开放 issue**: 297 · **提交数**: 6946
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 43 | 7 | 6 | 7 | 53 |
-| last60d | 2026-09-28 | 2 | 88 | 11 | 16 | 11 | 117 |
-| 90d | 2026-08-29 | 4 | 142 | 12 | 23 | 14 | 199 |
-| last180d | 2026-05-31 | 9 | 307 | 14 | 52 | 19 | 385 |
-| 360d | 2025-12-02 | 14 | 528 | 24 | 82 | 32 | 639 |
-| last720d | 2024-12-07 | 28 | 1071 | 39 | 245 | 105 | 2435 |
+| 30d | 2026-10-29 | 1 | 41 | 9 | 6 | 8 | 54 |
+| last60d | 2026-09-29 | 2 | 88 | 13 | 16 | 12 | 118 |
+| 90d | 2026-08-30 | 4 | 143 | 14 | 23 | 15 | 200 |
+| last180d | 2026-06-01 | 9 | 308 | 16 | 52 | 20 | 386 |
+| 360d | 2025-12-03 | 14 | 527 | 26 | 82 | 33 | 640 |
+| last720d | 2024-12-08 | 28 | 1071 | 41 | 245 | 106 | 2436 |
 
 ## Release 资产
 
@@ -83,6 +83,19 @@ x install nerdctl
 | [SHA256SUMS](https://github.com/containerd/nerdctl/releases/download/v2.4.2/SHA256SUMS) | 1.2 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/containerd/nerdctl/releases/download/v2.4.2/SHA256SUMS.asc) | 699 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/nerdctl) 上共有 **107** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**61** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `2.4.2` | ✅ latest |
+| Homebrew | `2.4.2` | ✅ latest |
+| Nix unstable | `2.4.2` | ✅ latest |
+| Void | `2.3.3` | ⚠️ outdated |
+| Alpine edge | `2.3.5` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.4.2` | ✅ latest |
+
 ## 改进这些数据
 
 nerdctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `nerdctl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -92,4 +105,4 @@ nerdctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T10:22:26Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T09:20:45Z._

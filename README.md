@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.2` (2026-10-30)
-- **Last commit**: 2026-11-27
+- **Last commit**: 2026-11-28
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 10,500 · **Forks**: 852 · **Open issues**: 1,480 · **Contributors**: 277
+- **Stars**: 10,500 · **Forks**: 854 · **Open issues**: 1,481 · **Contributors**: 277
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 3084 · **Open PRs**: 58 · **Closed issues**: 1184 · **Open issues**: 296 · **Commits**: 6944
+- **Releases**: 100 · **Merged PRs**: 3085 · **Open PRs**: 60 · **Closed issues**: 1184 · **Open issues**: 297 · **Commits**: 6946
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 43 | 7 | 6 | 7 | 53 |
-| last60d | 2026-09-28 | 2 | 88 | 11 | 16 | 11 | 117 |
-| 90d | 2026-08-29 | 4 | 142 | 12 | 23 | 14 | 199 |
-| last180d | 2026-05-31 | 9 | 307 | 14 | 52 | 19 | 385 |
-| 360d | 2025-12-02 | 14 | 528 | 24 | 82 | 32 | 639 |
-| last720d | 2024-12-07 | 28 | 1071 | 39 | 245 | 105 | 2435 |
+| 30d | 2026-10-29 | 1 | 41 | 9 | 6 | 8 | 54 |
+| last60d | 2026-09-29 | 2 | 88 | 13 | 16 | 12 | 118 |
+| 90d | 2026-08-30 | 4 | 143 | 14 | 23 | 15 | 200 |
+| last180d | 2026-06-01 | 9 | 308 | 16 | 52 | 20 | 386 |
+| 360d | 2025-12-03 | 14 | 527 | 26 | 82 | 33 | 640 |
+| last720d | 2024-12-08 | 28 | 1071 | 41 | 245 | 106 | 2436 |
 
 ## Release assets
 
@@ -83,6 +83,19 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/containerd/nerdctl/releases/download/v2.4.2/SHA256SUMS) | 1.2 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/containerd/nerdctl/releases/download/v2.4.2/SHA256SUMS.asc) | 699 B | `other` |
 
+## Distribution status
+
+Reported by **107** distros on [repology.org](https://repology.org/project/nerdctl). **16** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.4.2` | ✅ latest |
+| Homebrew | `2.4.2` | ✅ latest |
+| Nix unstable | `2.4.2` | ✅ latest |
+| Void | `2.3.3` | ⚠️ outdated |
+| Alpine edge | `2.3.5` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.4.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nerdctl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +105,4 @@ Install metadata for nerdctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:22:25Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:20:44Z._
